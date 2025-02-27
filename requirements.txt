@@ -1,1 +1,7 @@
-
+streamlit
+langchain
+langchain_google_genai
+google-generativeai
+deep-translator
+python-dotenv
+pydantic
